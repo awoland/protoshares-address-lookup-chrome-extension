@@ -1,0 +1,1 @@
+ProtoShares Address Lookup based on https://github.com/jonls/Bitcoin-Address-Lookup
